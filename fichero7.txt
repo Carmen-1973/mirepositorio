@@ -1,1 +1,2 @@
 el fichero7 contiene texto
+***cambio***

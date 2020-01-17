@@ -1,1 +1,2 @@
 el fichero2 contiene texto
+otra linea
